@@ -5,3 +5,4 @@ name = "go"
 
   [analyzers.meta]
   import_root = "github.com/justm0rph3u5/glide"
+  dependencies_vendored = true
